@@ -39,17 +39,6 @@ The project focuses on answering 35 comprehensive questions including but not li
 - GitHub repository with organized project structure
 - README documentation
 
-## Repository Structure
-
-├── data/
-│   ├── IPL Matches 2008-2020.csv
-│   └── IPL Ball-by-Ball 2008-2020.csv
-├── notebooks/
-│   └── Mini_Project_IPL_Final.ipynb
-├── outputs/
-│   └── visualizations (optional)
-├── README.md
-
 ## Sample Insights
 
 - **Mumbai Indians** have the highest match wins across seasons.
